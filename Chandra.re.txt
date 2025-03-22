@@ -1,0 +1,30 @@
+PERSONAL DETAILS
+
+
+Name               : Chandrakala U
+Father's Name      : Udhayakumar M
+Age                : 18
+Date of Birth      : 17/08/2006
+Gender             : Female
+Marital Status     : Single
+Religion           : Hindu
+
+
+
+
+EDUCATION DETAILS
+
+
+Degree             : BCA (Bahelore of Computer Application) 2023-2026
+Univerity          : Bharathidasan Univerity
+
+
+
+
+SKILLS
+
+
+Java 
+C
+Python
+SQL
